@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: manikwshwari/mani54: latest
+          tags: manikwshwari/mani54:latest
